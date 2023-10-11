@@ -5,7 +5,7 @@
 ### Команда:
 - [Маханова Наталья](https://github.com/NatashaMakhanova)
 - [Карнакова Ксения](https://github.com/xenahkar)
-- [Гужвина Любовь]()
+- [Гужвина Любовь](https://github.com/LyubovGuzhvina)
 
 ### Куратор:
 - [Гасымов Роман](https://github.com/roman646)
