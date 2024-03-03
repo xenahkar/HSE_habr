@@ -53,10 +53,12 @@
 
 `preprocessing_data.ipynb` - предобработка данных 
 
+`functions.py` - функции для предобработки
+
+
 
 ## Применение ML-моделей (/ML)
 
-Задачи:
 1. Предсказание рейтинга статьи (`ML.ipynb`)
 2. Предсказание хабов по текстам публикаций (`ML_hubs_prediction.ipynb`, `ML_hubs_top10.ipynb`, `HABR_ML_text_v2_second.ipynb` и др.)
 
